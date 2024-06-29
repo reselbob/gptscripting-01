@@ -1,3 +1,5 @@
 tools: sys.read, sys.ls
 
-Look at all the text fixes in the directory /root/gptscripting-01/quotes and find content written by not written Shakespeare.
+Print by filename the first line of all the files in /root/gptscripting-01/quotes
+
+Then, look at all the text files in the directory /root/gptscripting-01/quotes and find content not written by Shakespeare.
